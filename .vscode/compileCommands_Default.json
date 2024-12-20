@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\CrownAndConquest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\CrownAndConquest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\CrownAndConquest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\Player4XPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\Player4XPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\RulerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\Source\\CrownAndConquest\\RulerState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\CrownAndConquest\\.vscode\\compileCommands_Default\\CrownAndConquest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
